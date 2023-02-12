@@ -1,4 +1,4 @@
-package icu.megakite.miraigivop
+package icu.megakite.mirai.givop
 
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.GlobalScope

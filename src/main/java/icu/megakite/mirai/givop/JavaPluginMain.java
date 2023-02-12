@@ -1,4 +1,4 @@
-package icu.megakite.miraigivop;
+package icu.megakite.mirai.givop;
 
 import kotlin.Lazy;
 import kotlin.LazyKt;
@@ -26,7 +26,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static icu.megakite.miraigivop.WrappersKt.convertAsync;
+import static icu.megakite.mirai.givop.WrappersKt.convertAsync;
 
 public final class JavaPluginMain extends JavaPlugin {
     public static final JavaPluginMain INSTANCE = new JavaPluginMain();
